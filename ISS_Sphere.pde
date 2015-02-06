@@ -9,6 +9,7 @@
  * <p>
  *  The ISS position is recalculated every second but expect it to only move every minute or so.
  * </p>
+ * <p>Code at : <a href="https://github.com/StreetWanderer/ISS-Sphere">https://github.com/StreetWanderer/ISS-Sphere</a></p>
  */
  // import processing.opengl.*;
  
