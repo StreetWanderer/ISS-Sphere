@@ -1,3 +1,8 @@
+MOVED
+====
+This repository is now hosted on GitLab. This version is archived and will be deleted in the future
+https://gitlab.com/streetwanderer/ISS-Sphere
+
 ISS Sphere
 ==============
 Represent the position of the ISS projected on a abstract sphere.
